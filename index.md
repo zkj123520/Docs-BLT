@@ -11,7 +11,7 @@ hero:
   actions:
     - theme: brand
       text: 下载 BLT
-      link: /guide/what-is-vitepress
+      link: /use-BLT/how_to_get
     - theme: alt
       text: 快速开始
       link: /about-BLT/warning
