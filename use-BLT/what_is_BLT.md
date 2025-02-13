@@ -10,4 +10,4 @@
 
 ## 下一步
 
-前往[使用引导](/BLT/user-guide.md)一节以开始使用。   
+前往[使用引导](/use-BLT/user-guide)一节以开始使用。   

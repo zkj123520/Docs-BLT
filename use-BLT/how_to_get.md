@@ -15,9 +15,9 @@
 
 #### 下载压缩包
 
-[Github仓库获取]() 下载最新版本的压缩包。
+[Github仓库获取](https://github.com/bailitang/use-BLT/releases) 下载最新版本的压缩包。
 
-[夸克网盘获取]() 下载最新版本的压缩包。
+[夸克网盘获取](https://pan.quark.cn/) 下载最新版本的压缩包。
 
-[百度网盘获取]() 下载最新版本的压缩包。
+[百度网盘获取](https://pan.baidu.com/) 下载最新版本的压缩包。
 

@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/Docs-BLT/",
-  head: [["link", { rel: "icon",base: "/Docs-BLT/", href: "/iconlogo.svg" }]],
+  base: "/repo/",
+  head: [["link", { rel: "icon",base: "/repo/", href: "/iconlogo.svg" }]],
   title: "与亲友的便捷文档",
   description: "A VitePress Site",
   themeConfig: {
@@ -32,7 +32,7 @@ export default defineConfig({
   },
 
     nav: [
-      { text: '首页', link: '/' },
+      { text: '首页', link: '/index' },
       { text: '使用文档', link: '/about-BLT/Warning'},
       { text: '联系作者', link: '/other/chat-with-us'}
     ],
