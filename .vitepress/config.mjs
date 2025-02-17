@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/Docs-BLT/",
-  head: [["link", { rel: "icon", href: "/Docs-BLT/iconlogo.svg" }]],
+  //base: "/Docs-BLT/",
+  head: [["link", { rel: "icon", href: "/iconlogo.svg" }]],
   title: "与亲友的便捷文档",
   description: "A VitePress Site",
   themeConfig: {
